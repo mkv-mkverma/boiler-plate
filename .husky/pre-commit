@@ -1,5 +1,1 @@
-# .husky/pre-commit
-#npm test
-
-# .husky/pre-commit
 npm run lint
